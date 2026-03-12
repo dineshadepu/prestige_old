@@ -1,9 +1,0 @@
-[package]
-name = "serial_vs_parallel"
-version = "0.1.0"
-authors = ["dineshadepu <adepu.dinesh.a@gmail.com>"]
-
-[dependencies]
-prestige = {path = "../../"}
-simple_shapes = {path = "../../../simple_shapes"}
-indicatif = "0.10.1"
