@@ -1,11 +1,9 @@
 * What is this?
-  This is library to implement particle methods based algorithms. This is highly
-  inspired from [[https://github.com/pypr/pysph][pysph]] ( I would say clone). Particle methods like
+  This is library to implement particle methods based algorithms. Supports particle methods like
 
   - Discrete element method.
   - Smoothed particle hydrodynamics
 
-  will be implemented
 
 
 * How to run
